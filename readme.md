@@ -2,5 +2,5 @@
 
 Importer la BDD SQL blogwp.sql
 
-Compte: admin
+Compte: admin  
 mdp: admin
